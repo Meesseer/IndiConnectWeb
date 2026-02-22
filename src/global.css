@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Promo Gradient Bar */
+.promo-bar {
+  position: relative;
+  background: linear-gradient(90deg, #024397, #E04A00 100%);
+  overflow: hidden;
+}
+
+.promo-text {
+  text-align: center;
+  padding: 8px 16px;
+  color: white;
+  font-size: 14px;
+  font-weight: 300;
+}
+
+
+.promo-code {
+  font-weight: 700;
+}
+
