@@ -7,7 +7,7 @@ function NavBar() {
 
   return (
     <header className="fixed top-15 left-0 w-full z-50">
-      <div className="max-w-7xl mx-auto px-6">
+      <div className="max-w-7xl mx-auto">
         <div className="backdrop-blur-xl bg-white/20 border border-white/40 shadow-[0_4px_24px_rgba(1,41,92,0.2)] rounded-2xl px-6 py-4 md:py-5 flex items-center justify-between">
 
           {/* Left side */}
